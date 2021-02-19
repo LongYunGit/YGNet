@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "YGNet"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "LongYun network sdk."
   spec.description  = <<-DESC
                       "This is LongYun network sdk."
