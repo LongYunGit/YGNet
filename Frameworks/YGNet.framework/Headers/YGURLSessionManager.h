@@ -7,9 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "YGURLResponseSerialization.h"
-#import "YGURLRequestSerialization.h"
-#import "YGSecurityPolicy.h"
+#import <YGNet/YGURLResponseSerialization.h>
+#import <YGNet/YGURLRequestSerialization.h>
+#import <YGNet/YGSecurityPolicy.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

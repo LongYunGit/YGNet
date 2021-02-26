@@ -18,7 +18,7 @@
 #import <CoreServices/CoreServices.h>
 #endif
 
-#import "YGURLSessionManager.h"
+#import <YGNet/YGURLSessionManager.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
